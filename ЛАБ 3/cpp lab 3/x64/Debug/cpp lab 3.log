@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 3\cpp lab 3\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 3\cpp lab 3\Source.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 3\cpp lab 3\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 3\cpp lab 3\Source.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Word.cpp
+  Создание кода...
+  cpp lab 3.vcxproj -> C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 3\cpp lab 3\x64\Debug\cpp lab 3.exe

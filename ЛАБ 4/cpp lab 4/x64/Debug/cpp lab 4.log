@@ -1,0 +1,6 @@
+﻿  Polynom.cpp
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 4\cpp lab 4\Polynom.cpp(34,25): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Source.cpp
+  cpp lab 4.cpp
+  Создание кода...
+  cpp lab 4.vcxproj -> C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 4\cpp lab 4\x64\Debug\cpp lab 4.exe

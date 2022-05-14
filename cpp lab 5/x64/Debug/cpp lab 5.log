@@ -1,0 +1,5 @@
+﻿  cpp lab 5.cpp
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 5\cpp lab 5\R2_Vector.h(18,33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 5\cpp lab 5\R3_Vector.h(18,33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 5\cpp lab 5\R3_Vector.h(21,41): warning C4805: ==: небезопасное смешение типа "bool" и типа "float" в операции
+  cpp lab 5.vcxproj -> C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 5\cpp lab 5\x64\Debug\cpp lab 5.exe

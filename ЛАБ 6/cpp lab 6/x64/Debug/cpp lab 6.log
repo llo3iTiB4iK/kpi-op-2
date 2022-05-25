@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Tree_Node.cpp
+  cpp lab 6.cpp
+  Создание кода...
+C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 6\cpp lab 6\Tree_Node.cpp(39): warning C4715: Tree_Node::find_distance: значение возвращается не при всех путях выполнения
+  cpp lab 6.vcxproj -> C:\Users\MSI\Desktop\2 семестр\ОП\ЛАБ 6\cpp lab 6\x64\Debug\cpp lab 6.exe
